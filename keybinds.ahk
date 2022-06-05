@@ -1,6 +1,5 @@
 #IfWinActive
-#q::
-Sendinput !{F4}
+#q::WinClose A
 return
 
 #IfWinActive
